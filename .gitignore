@@ -1,0 +1,4 @@
+*.o
+a.out
+music_manager
+.DS_Store
